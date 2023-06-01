@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/talentserve.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+.vertical-text{
+  font-family: inherit;
+  font-size: 4.5em;
+  font-weight: 900;
+  margin: 0;
+  padding-top: 40px;
+  text-align: center;
+  margin-left: 100px;
+  
+}
+
+.center-max{
+  padding-top: 30px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
